@@ -1,4 +1,3 @@
-
 #include <vector>
 #include <queue>
 #include <set>
@@ -8,18 +7,12 @@
 
 using namespace std;
 
-ifstream cin("2.txt");
+ifstream cin("TestCases/2.txt");
 ofstream cout("rez.txt");
 
 struct CARD{
     int number;
     int color;
-    /*
-    1 - black
-    2 - purple
-    3 - grey
-    4 - green
-    */
 };
 
 struct BLOCK{
