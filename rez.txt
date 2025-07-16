@@ -1,0 +1,35 @@
+Input your cards <number color>
+0-joker,1-black,2-purple,3-grey,4-green
+To end type -1 -1
+Input card blocks on the table <number color>
+0-joker,1-black,2-purple,3-grey,4-green
+To end type -1 -1
+To end type 0, to start a new block type 1
+Enter cards on on the next block
+0-joker,1-black,2-purple,3-grey,4-green
+To end type -1 -1
+To end type 0, to start a new block type 1
+
+
+MOVE--------
+Card moved: 11
+From block: 11 51 54 61 
+To block: 21 31 41 
+MOVE--------
+Card moved: 51
+From block: 51 54 61 
+To block: 11 21 31 41 
+MOVE--------
+Card moved: 54
+From block: 54 61 
+To block: 51 52 53 
+MOVE--------
+Card moved: 61
+From block: 61 
+To block: 11 21 31 41 51 
+
+11 54 51 61 
+
+    21 31 41 
+    53 52 51 
+Execution time: 10.5469 seconds
