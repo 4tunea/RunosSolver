@@ -2,3 +2,5 @@
 rez.txt
 # Ignore VS Code settings
 .vscode/
+# Ignore compiled files
+main
